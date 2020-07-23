@@ -20,13 +20,13 @@ Okay fineeeee, here you go
 |              | Cheapest Plan | If you want a little extra Plan | I have the money to afford anything Plan |
 |--------------|---------------|---------------------------------|------------------------------------------|
 | OVH          | $3.50         | $6.00                           | $31.28                                   |
-| Scaleway     | €4.99         | €9.99                           | €569.00                                  |
+| Scaleway     | $5.80         | $11.61                          | $660.99                                  |
 | Linode       | $5.00         | $10.00                          | $960.00                                  |
 | GalaxyGate   | $3.00         | $5.00                           | $240.00                                  |
 | DigitalOcean | $5.00         | $10.00                          | $1200.00                                 |
 | Vultr        | $2.50         | $5.00                           | $640.00                                  |
 | RamNode      | $3.00         | $5.00                           | $96.00                                   |
-| Contabo      | €3.99         | €4.99                           | €26.99                                   |
+| Contabo      | $4.64         | $5.80                           | $24.38                                   |
 
 **OKAY!** You said that we should look at the specifications of the VPS? Why are you giving us a price table? This is for your price budget. You need to look at your budget or range. Which provider fits the criteria of the budget range.
 
