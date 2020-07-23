@@ -23,6 +23,7 @@ Okay fineeeee, here you go
 | Vultr        | $2.50         | $5.00                           | $640.00                                  |
 | RamNode      | $3.00         | $5.00                           | $96.00                                   |
 | Contabo      | €3.99         | €4.99                           | €26.99                                   |
+
 **OKAY!** You said that we should look at the specifications of the VPS? Why are you giving us a price table? This is for your price budget. You need to look at your budget or range. Which provider fits the criteria of the budget range.
 
 #### OVH
