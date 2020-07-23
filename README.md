@@ -1,5 +1,5 @@
 # What's The Right VPS?
-Welcome! To the very annoying world of VPS shopping where you're filled with a lot of choices and you cant choose which one and you and up in your bedroom, crying over the painful choices you need to do just to buy a VPS.
+Welcome! To the very annoying world of VPS shopping where you're filled with a lot of choices and you cant choose which one and you end up in your bedroom, crying over the painful choices you need to do just to buy a VPS.
 
 ## Introduction
 For the past years, I've been with **T w o D i f f e r e n t V P S P r o v i d e r s** and going 3. And I'm supppeeerrr *annoyed* by the pricing, specs, and bandwidth. If you look at my projects, HypeBot is the f r i k n most resource-intensive of all. Simply, because of the Music System, running on 60MBPS every day on average. Okay! Let's go in-depth on how VPSes work, priced, and marketed.
