@@ -40,7 +40,8 @@ Scaleway. I've only been with a month and its disk speed is running on 90 ~ 110 
 I've never tried Linode but its always part of the list that is being recommended to me. Based on research. It is pretty solid on its userbase and but some of its users are having trouble with Linode's user registration. I also quite think that the limitations Linode impose on resources is the only thing that I kinda go ehh maybe not this.
 
 #### GalaxyGate
-*Soon I'm moving here to check it out.* GalaxyGate's first impression reminds me of OVH's pricing before the new changes this 2020. Its pricing is well-matched with its resources. The biggest blow of GalaxyGate is the unmetered bandwidth and weekly backups feature. Not all VPS Providers provide this kind of resource. I would recommend them if you would have a high request rate on web applications since you have 500mbps to a Gigabit of internet speed.
+GalaxyGate's first impression reminds me of OVH's pricing before the new changes this 2020. Its pricing is well-matched with its resources. The biggest blow of GalaxyGate is the unmetered bandwidth and weekly backups feature. Not all VPS Providers provide this kind of resource. I would recommend them if you would have a high request rate on web applications since you have 500mbps to a Gigabit of internet speed.
+Update: Okay GalaxyGate is great, support's on Discord so it's fast.
 
 #### DigitalOcean
 I would say, same with Linode but DigitalOcean has expanded with an array of choices ranging from 1GB to 192GB RAM and more. Still lacking the bandwidth specification. Would recommend this for people that codes as a hobby.
@@ -56,7 +57,7 @@ Contabo for me is so much sketchy. And it's website looks way old. Reviews mostl
 
 ## Well, okay now you tackled about the VPS providers above. Which one do you recommend? Or top 3?
 If I sorted this by ranking. It will be:
-1. GalaxyGate (currently testing this out soon)
+1. GalaxyGate
 2. OVH
 3. Scaleway
 4. RamNode
