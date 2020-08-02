@@ -71,5 +71,6 @@ Feel free to open up an issue in this repo and I'll check it out.
 #### August 2,2020
 Im liking GalaxyGate's service, support and VPS since its all speedy. I highly recommend it.
 Here's a benchmark of the **Standard 2GB** plan i currently have.
+
 ![Benchmark](https://raw.githubusercontent.com/ElectricReality/The-Right-VPS/master/GalaxyGate%20Benchmark.png)
 
