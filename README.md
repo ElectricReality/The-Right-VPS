@@ -57,7 +57,7 @@ Contabo for me is so much sketchy. And it's website looks way old. Reviews mostl
 
 ## Well, okay now you tackled about the VPS providers above. Which one do you recommend? Or top 3?
 If I sorted this by ranking. It will be:
-1. GalaxyGate
+1. GalaxyGate(please use my referral link :) https://gg.topcord.xyz or https://billing.galaxygate.net/aff.php?aff=117
 2. OVH
 3. Scaleway
 4. RamNode
